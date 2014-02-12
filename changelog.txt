@@ -1,3 +1,6 @@
+0.0.6 - by CaTz (12/02/2014)
+-  Added feature, popup subtitles window if there is no subtitles for specific language
+
 0.0.5
 - Renamed script to service.autosubs
 
